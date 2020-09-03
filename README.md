@@ -15,6 +15,6 @@
 ## Installation
 ```bash
 $ git clone https://github.com/kusinara/st
-$ cd dwm
+$ cd st
 $ sudo make clean install
 ```
