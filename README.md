@@ -1,3 +1,5 @@
+This build contains bad practices but should still be functional, I am also no longer using st or Arch linux so I will not be working towards making a proper PKGBUILD with patches
+
 ## Patches
 - anysize
 - bold is not bright
@@ -8,9 +10,9 @@
 - xresources
 
 ## Bindings
-- CTRL+SHIFT+C and CTRL+SHIFT+V to copy and paste
-- ALT+Plus and ALT+Minus to increase/decrease font size
-- SHIFT+PgUP and SHIFT+PgDN to scroll up/down
+- ctrl + shift + c and ctrl + shift + v to copy and paste
+- alt + plus and alt + minus to increase/decrease font size
+- shift + pageup and shift + pagedown to scroll up/down
 
 ## Installation
 ```bash
